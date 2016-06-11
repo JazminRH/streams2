@@ -1,6 +1,9 @@
 body {
   padding-top: 70px;
   padding-bottom: 30px;
+  background-image: url(https://d1yn1kh78jj1rr.cloudfront.net/preview/simple-background-with-artwork_My_qzaKd_S.jpg);
+  background-repeat: no-repeat;
+  background-image: cover ;
 }
 
 .tweet-item {
@@ -45,11 +48,5 @@ body {
 .tweet-user-avatar img {
   width: 64px;
   height: 64px;
-}
-  
-.back {
-  background-image: url("http://wallpapercave.com/wp/xHQ6YLz.jpg");
-  height: 100px;
-  width: 100px;
 }
 
