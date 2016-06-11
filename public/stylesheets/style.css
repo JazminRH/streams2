@@ -3,7 +3,7 @@ body {
   padding-bottom: 30px;
   background-image: url(https://d1yn1kh78jj1rr.cloudfront.net/preview/simple-background-with-artwork_My_qzaKd_S.jpg);
   background-repeat: no-repeat;
-  background-image: cover ;
+  background-size: cover;
 }
 
 .tweet-item {
